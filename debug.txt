@@ -1,0 +1,12 @@
+Opened log file 'debug.txt'
+Requested display size: 640 x 480
+
+Library versions:
+	exec.library 53.12
+	dos.library 53.58
+	intuition.library 53.30
+	graphics.library 53.4
+	Picasso96API.library 2.356
+
+Driver at 0x698dbd58
+Allocated RastPort at 0x69e05100

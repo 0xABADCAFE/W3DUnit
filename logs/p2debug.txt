@@ -1,0 +1,395 @@
+[_W3DGFX_W3DGFX_CheckBitmap] W3D_Picasso96: CheckBitmap
+[_W3DGFX_W3DGFX_CheckBitmap] CheckBitMap: BPR = 1280, size = (640 x 480 x 16)
+[_W3DGFX_W3DGFX_CheckBitmap] CheckBitMap: PixFmt = 32
+[_W3DGFX_W3DGFX_CheckBitmap] CheckBitMap: Chunky = 0
+[_W3DGFX_W3DGFX_CheckBitmap] CheckBitMap: Destalpha = 0
+[GetStrideIndex] width 640 -> 640 [17]
+[GetStrideIndex] width 320 -> 320 [10]
+[_W3DGFX_W3DGFX_CheckBitmap] W3D_Picasso96: CheckBitmap
+[_W3DGFX_W3DGFX_CheckBitmap] CheckBitMap: BPR = 1280, size = (640 x 480 x 16)
+[_W3DGFX_W3DGFX_CheckBitmap] CheckBitMap: PixFmt = 32
+[_W3DGFX_W3DGFX_CheckBitmap] CheckBitMap: Chunky = 0
+[_W3DGFX_W3DGFX_CheckBitmap] CheckBitMap: Destalpha = 0
+[GetStrideIndex] width 640 -> 640 [17]
+[GetStrideIndex] width 320 -> 320 [10]
+[GetStrideIndex] width 320 -> 320 [10]
+[GetStrideIndex] width 640 -> 640 [17]
+[_W3DGFX_W3DGFX_LockHardware] context->regbase = 0xEF010000
+[_W3DGFX_W3DGFX_LockHardware] context->vmembase = 0xE0000000
+[_W3DGFX_W3DGFX_LockHardware] context->drawmem = 0xE0E35600
+[_W3DGFX_W3DGFX_LockHardware] Success
+Enter: _W3DHW_W3DHW_LockHardware
+[_W3DHW_W3DHW_LockHardware] { regbase 0xEF010000, vmembase 0xE0000000, drawmem 0xE0E35600, driver 0x3E31D2F0, regbackup 0x3E31D424 }
+Enter: _W3DHW_W3DHW_UnLockHardware
+[_W3DGFX_W3DGFX_UnLockHardware] W3D_Picasso96: UnLockHardware
+[_W3DGFX_W3DGFX_LockHardware] context->regbase = 0xEF010000
+[_W3DGFX_W3DGFX_LockHardware] context->vmembase = 0xE0000000
+[_W3DGFX_W3DGFX_LockHardware] context->drawmem = 0xE0E35600
+[_W3DGFX_W3DGFX_LockHardware] Success
+Enter: _W3DHW_W3DHW_LockHardware
+[_W3DHW_W3DHW_LockHardware] { regbase 0xEF010000, vmembase 0xE0000000, drawmem 0xE0E35600, driver 0x3E31D2F0, regbackup 0x3E31D424 }
+Enter: _W3DHW_W3DHW_UnLockHardware
+[_W3DGFX_W3DGFX_UnLockHardware] W3D_Picasso96: UnLockHardware
+[_W3DGFX_W3DGFX_LockHardware] context->regbase = 0xEF010000
+[_W3DGFX_W3DGFX_LockHardware] context->vmembase = 0xE0000000
+[_W3DGFX_W3DGFX_LockHardware] context->drawmem = 0xE0E35600
+[_W3DGFX_W3DGFX_LockHardware] Success
+Enter: _W3DHW_W3DHW_LockHardware
+[_W3DHW_W3DHW_LockHardware] { regbase 0xEF010000, vmembase 0xE0000000, drawmem 0xE0E35600, driver 0x3E31D2F0, regbackup 0x3E31D424 }
+Enter: _W3DHW_W3DHW_UnLockHardware
+[_W3DGFX_W3DGFX_UnLockHardware] W3D_Picasso96: UnLockHardware
+[_W3DGFX_W3DGFX_LockHardware] context->regbase = 0xEF010000
+[_W3DGFX_W3DGFX_LockHardware] context->vmembase = 0xE0000000
+[_W3DGFX_W3DGFX_LockHardware] context->drawmem = 0xE0E35600
+[_W3DGFX_W3DGFX_LockHardware] Success
+Enter: _W3DHW_W3DHW_LockHardware
+[_W3DHW_W3DHW_LockHardware] { regbase 0xEF010000, vmembase 0xE0000000, drawmem 0xE0E35600, driver 0x3E31D2F0, regbackup 0x3E31D424 }
+Enter: InitDrawing
+Enter: SetupHardware
+Enter: _W3DHW_W3DHW_UnLockHardware
+[_W3DGFX_W3DGFX_UnLockHardware] W3D_Picasso96: UnLockHardware
+[_W3DGFX_W3DGFX_LockHardware] context->regbase = 0xEF010000
+[_W3DGFX_W3DGFX_LockHardware] context->vmembase = 0xE0000000
+[_W3DGFX_W3DGFX_LockHardware] context->drawmem = 0xE0E35600
+[_W3DGFX_W3DGFX_LockHardware] Success
+Enter: _W3DHW_W3DHW_LockHardware
+[_W3DHW_W3DHW_LockHardware] { regbase 0xEF010000, vmembase 0xE0000000, drawmem 0xE0E35600, driver 0x3E31D2F0, regbackup 0x3E31D424 }
+Enter: InitDrawing
+Enter: SetupHardware
+Enter: _W3DHW_W3DHW_UnLockHardware
+[_W3DGFX_W3DGFX_UnLockHardware] W3D_Picasso96: UnLockHardware
+[_W3DGFX_W3DGFX_LockHardware] context->regbase = 0xEF010000
+[_W3DGFX_W3DGFX_LockHardware] context->vmembase = 0xE0000000
+[_W3DGFX_W3DGFX_LockHardware] context->drawmem = 0xE0E35600
+[_W3DGFX_W3DGFX_LockHardware] Success
+Enter: _W3DHW_W3DHW_LockHardware
+[_W3DHW_W3DHW_LockHardware] { regbase 0xEF010000, vmembase 0xE0000000, drawmem 0xE0E35600, driver 0x3E31D2F0, regbackup 0x3E31D424 }
+Enter: InitDrawing
+Enter: SetupHardware
+Enter: _W3DHW_W3DHW_UnLockHardware
+[_W3DGFX_W3DGFX_UnLockHardware] W3D_Picasso96: UnLockHardware
+[_W3DGFX_W3DGFX_LockHardware] context->regbase = 0xEF010000
+[_W3DGFX_W3DGFX_LockHardware] context->vmembase = 0xE0000000
+[_W3DGFX_W3DGFX_LockHardware] context->drawmem = 0xE0E35600
+[_W3DGFX_W3DGFX_LockHardware] Success
+Enter: _W3DHW_W3DHW_LockHardware
+[_W3DHW_W3DHW_LockHardware] { regbase 0xEF010000, vmembase 0xE0000000, drawmem 0xE0E35600, driver 0x3E31D2F0, regbackup 0x3E31D424 }
+Enter: InitDrawing
+Enter: SetupHardware
+Enter: _W3DHW_W3DHW_UnLockHardware
+[_W3DGFX_W3DGFX_UnLockHardware] W3D_Picasso96: UnLockHardware
+[_W3DGFX_W3DGFX_LockHardware] context->regbase = 0xEF010000
+[_W3DGFX_W3DGFX_LockHardware] context->vmembase = 0xE0000000
+[_W3DGFX_W3DGFX_LockHardware] context->drawmem = 0xE0E35600
+[_W3DGFX_W3DGFX_LockHardware] Success
+Enter: _W3DHW_W3DHW_LockHardware
+[_W3DHW_W3DHW_LockHardware] { regbase 0xEF010000, vmembase 0xE0000000, drawmem 0xE0E35600, driver 0x3E31D2F0, regbackup 0x3E31D424 }
+Enter: InitDrawing
+Enter: SetupHardware
+Enter: _W3DHW_W3DHW_UnLockHardware
+[_W3DGFX_W3DGFX_UnLockHardware] W3D_Picasso96: UnLockHardware
+[_W3DGFX_W3DGFX_LockHardware] context->regbase = 0xEF010000
+[_W3DGFX_W3DGFX_LockHardware] context->vmembase = 0xE0000000
+[_W3DGFX_W3DGFX_LockHardware] context->drawmem = 0xE0E35600
+[_W3DGFX_W3DGFX_LockHardware] Success
+Enter: _W3DHW_W3DHW_LockHardware
+[_W3DHW_W3DHW_LockHardware] { regbase 0xEF010000, vmembase 0xE0000000, drawmem 0xE0E35600, driver 0x3E31D2F0, regbackup 0x3E31D424 }
+Enter: InitDrawing
+Enter: SetupHardware
+Enter: _W3DHW_W3DHW_UnLockHardware
+[_W3DGFX_W3DGFX_UnLockHardware] W3D_Picasso96: UnLockHardware
+[_W3DGFX_W3DGFX_LockHardware] context->regbase = 0xEF010000
+[_W3DGFX_W3DGFX_LockHardware] context->vmembase = 0xE0000000
+[_W3DGFX_W3DGFX_LockHardware] context->drawmem = 0xE0E35600
+[_W3DGFX_W3DGFX_LockHardware] Success
+Enter: _W3DHW_W3DHW_LockHardware
+[_W3DHW_W3DHW_LockHardware] { regbase 0xEF010000, vmembase 0xE0000000, drawmem 0xE0E35600, driver 0x3E31D2F0, regbackup 0x3E31D424 }
+Enter: InitDrawing
+Enter: SetupHardware
+Enter: _W3DHW_W3DHW_UnLockHardware
+[_W3DGFX_W3DGFX_UnLockHardware] W3D_Picasso96: UnLockHardware
+[_W3DGFX_W3DGFX_LockHardware] context->regbase = 0xEF010000
+[_W3DGFX_W3DGFX_LockHardware] context->vmembase = 0xE0000000
+[_W3DGFX_W3DGFX_LockHardware] context->drawmem = 0xE0E35600
+[_W3DGFX_W3DGFX_LockHardware] Success
+Enter: _W3DHW_W3DHW_LockHardware
+[_W3DHW_W3DHW_LockHardware] { regbase 0xEF010000, vmembase 0xE0000000, drawmem 0xE0E35600, driver 0x3E31D2F0, regbackup 0x3E31D424 }
+Enter: InitDrawing
+Enter: SetupHardware
+Enter: _W3DHW_W3DHW_UnLockHardware
+[_W3DGFX_W3DGFX_UnLockHardware] W3D_Picasso96: UnLockHardware
+[_W3DGFX_W3DGFX_LockHardware] context->regbase = 0xEF010000
+[_W3DGFX_W3DGFX_LockHardware] context->vmembase = 0xE0000000
+[_W3DGFX_W3DGFX_LockHardware] context->drawmem = 0xE0E35600
+[_W3DGFX_W3DGFX_LockHardware] Success
+Enter: _W3DHW_W3DHW_LockHardware
+[_W3DHW_W3DHW_LockHardware] { regbase 0xEF010000, vmembase 0xE0000000, drawmem 0xE0E35600, driver 0x3E31D2F0, regbackup 0x3E31D424 }
+Enter: InitDrawing
+Enter: SetupHardware
+Enter: _W3DHW_W3DHW_UnLockHardware
+[_W3DGFX_W3DGFX_UnLockHardware] W3D_Picasso96: UnLockHardware
+[_W3DGFX_W3DGFX_LockHardware] context->regbase = 0xEF010000
+[_W3DGFX_W3DGFX_LockHardware] context->vmembase = 0xE0000000
+[_W3DGFX_W3DGFX_LockHardware] context->drawmem = 0xE0E35600
+[_W3DGFX_W3DGFX_LockHardware] Success
+Enter: _W3DHW_W3DHW_LockHardware
+[_W3DHW_W3DHW_LockHardware] { regbase 0xEF010000, vmembase 0xE0000000, drawmem 0xE0E35600, driver 0x3E31D2F0, regbackup 0x3E31D424 }
+Enter: InitDrawing
+Enter: SetupHardware
+Enter: _W3DHW_W3DHW_UnLockHardware
+[_W3DGFX_W3DGFX_UnLockHardware] W3D_Picasso96: UnLockHardware
+Dump of context at 0x9FF27000
+Trap type: DSI exception
+Machine State (raw): 0x0000F070
+Machine State (verbose): [ExtInt on] [User] [FPU on] [IAT on] [DAT on] 
+Temporary stack trace:
+#0: in module Kickstart/newlib.library.kmod+0x0002B518 (0x704E1F58)
+#1: in module Kickstart/newlib.library.kmod+0x000377F0 (0x704EE230)
+#2: 0x1FA2B498
+#3: 0x1FA2C9C0
+#4: 0x1FA30714
+#5: 0x1FA2AABC
+#6: 0x1FA306A4
+#7: in module Kickstart/newlib.library.kmod+0x00001F38 (0x704B8978)
+#8: in module Kickstart/newlib.library.kmod+0x00002B84 (0x704B95C4)
+#9: in module Kickstart/newlib.library.kmod+0x00002D48 (0x704B9788)
+#10: 0x1FA29170
+#11: in module Kickstart/dos.library.kmod+0x0001EA18 (0x703B2658)
+#12: in module Kickstart/kernel+0x0003FD18 (0x7023FD18)
+#13: in module Kickstart/kernel+0x0003FD98 (0x7023FD98)
+#14: 0x00000000
+
+Crashed process: bin/W3DUnit (0x3EB00B30)
+ 0: 00000000 3E0672A0 26FFF8D9 00000001 3E0672B0 3E3FCEEE 00000001 70A30000
+ 8: 00000001 FFFFFFFE 00000000 00000006 28422344 3EC09774 00000000 70A2E074
+16: 3E067AB0 00000000 00000000 70A2E084 3E0679E8 3E067314 3E3FCEF0 00000073
+24: 3E380680 00000010 FFFFFFFF 3E0679E8 3E06731C 00000001 48422342 28422344
+CR: 28422348   XER: 6000F33F  CTR: 704EAB3C  LR: 704EC6CC
+DSISR: 40000000  DAR: 00000000
+DSI verbose error description: Access not found in hash or BAT (page fault)
+Access was a load operation
+
+Registers pointing to code:
+r5 : module bin/W3DUnit at 0x3E3FCEEE (section 6 @ 0x2ECE)
+r7 : module Kickstart/newlib.library.kmod at 0x70A30000 (section 2 @ 0x8F84)
+r15: module Kickstart/newlib.library.kmod at 0x70A2E074 (section 2 @ 0x6FF8)
+r19: module Kickstart/newlib.library.kmod at 0x70A2E084 (section 2 @ 0x7008)
+r22: module bin/W3DUnit at 0x3E3FCEF0 (section 6 @ 0x2ED0)
+ip : module Kickstart/newlib.library.kmod at 0x704E1F58 (section 0 @ 0x2B51C)
+lr : module Kickstart/newlib.library.kmod at 0x704EC6CC (section 0 @ 0x35C90)
+ctr: module Kickstart/newlib.library.kmod at 0x704EAB3C (section 0 @ 0x34100)
+
+Stack Backtrace:
+(0x3E0672A0) module Kickstart/newlib.library.kmod at 0x704E1F58 (section 0 @ 0x2B51C)
+(0x3E0679E0) module Kickstart/newlib.library.kmod at 0x704EE230 (section 0 @ 0x377F4)
+(0x3E067AA0) W3DUnit:_ZN13ContextFacade12showDialogueEPKcS1_S1_z()+0x9C (section 1 @ 0x2498)
+(0x3E067B50) W3DUnit:_ZN7Testing17confirmShadeModesEPN6Vertex6BufferEP13ContextFacade()+0x70 (section 1 @ 0x39C0)
+(0x3E067C50) W3DUnit:_ZN7Testing23runImplementationChecksEPN6Vertex6BufferEP13ContextFacade()+0x50 (section 1 @ 0x7714)
+(0x3E067C60) W3DUnit:_ZN10W3DUnitApp3runEv()+0x324 (section 1 @ 0x1ABC)
+(0x3E067D10) W3DUnit:main()+0x24 (section 1 @ 0x76A4)
+(0x3E067D20) module Kickstart/newlib.library.kmod at 0x704B8978 (section 0 @ 0x1F3C)
+(0x3E067D90) module Kickstart/newlib.library.kmod at 0x704B95C4 (section 0 @ 0x2B88)
+(0x3E067F30) module Kickstart/newlib.library.kmod at 0x704B9788 (section 0 @ 0x2D4C)
+(0x3E067F70) W3DUnit:_start()+0x170 (section 1 @ 0x170)
+(0x3E067FB0) module Kickstart/dos.library.kmod at 0x703B2658 (section 0 @ 0x1EA1C)
+(0x3E067FC0) module Kickstart/kernel at 0x7023FD18 (section 0 @ 0x3FD1C)
+(0x3E067FD0) module Kickstart/kernel at 0x7023FD98 (section 0 @ 0x3FD9C)
+(0x3E067FE0) 
+
+Disassembly of crash site:
+ 704E1F48: 7C681B78   mr                r8,r3
+ 704E1F4C: 7F8A1800   cmpw              cr7,r10,r3
+ 704E1F50: 419E0070   beq-              cr7,0x704E1FC0
+ 704E1F54: 7C6918F8   not               r9,r3
+>704E1F58: 816A0000   lwz               r11,0(r10)
+ 704E1F5C: 3800FFFF   li                r0,-1
+ 704E1F60: 552907BE   rlwinm            r9,r9,0,30,31
+ 704E1F64: 39290001   addi              r9,r9,1
+ 704E1F68: 55291838   rlwinm            r9,r9,3,0,28
+ 704E1F6C: 7C004830   slw               r0,r0,r9
+Stack pointer (0x3E0672A0) is inside bounds
+Redzone is OK (4)
+
+68k register dump
+DATA: 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000
+ADDR: 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000
+STCK: 0000FFFF 70BA1EA6 0000FFFF 70BA1EA6 0000FFFF 70BA1EA6 0000FFFF 70BA1EA6
+STCK: 7023035C 7022D8F0 7023035C 7022D8F0 7023035C 7022D8F0 7023035C 7022D8F0
+STCK: 7023035C 7022D8F0 7023035C 7022D8F0 7023035C 7022D8F0 7023035C 7022D8F0
+STCK: 7023035C 7022D8F0 7023035C 7022D8F0 7023035C 7022D8F0 7023035C 7022D8F0
+STCK: 7023035C 7022D8F0 7023035C 7022D8F0 7023035C 7022D8F0 7023035C 7022D8F0
+STCK: 7023035C 7022D8F0 7023035C 7022D8F0 7023035C 7022D8F0 7023035C 7022D8F0
+STCK: 7023035C 7022D8F0 7023035C 7022D8F0 7023035C 7022D8F0 7023035C 7022D8F0
+STCK: 7023035C 7022D8F0 7023035C 7022D8F0 7023035C 7022D8F0 7023035C 7022D8F0
+PC-8: 73240000 00000000 00003FFA 38003E06 73107022 15CC3E3F E0683FFA 38243E06
+PC *: 73203E3F CDC10000 012D70B9 F0C40000 00103E3F B0D20000 00013FEC 83000000
+Address of 68k IP r21 0x3E067312 not found
+Address of 68k IP r8  0x00000001 not found
+----> 70BA1EA6 - "Kickstart/kernel" Hunk 0001 Offset 00151EA2
+
+Disassembly of 68k crash site:
+ 3E067312: 7320                    	moveq	#0x20,d1
+ 3E067314: 3E3F CDC1 0000 012D     	move.w	([0x2d,pc,a4.l*4],0),d7
+ 3E06731C: 70B9                    	moveq	#-0x47,d0
+ 3E06731E: F0C4 0000 0010          	pbss.l	0x3e067330
+ 3E067324: 3E3F B0D2               	move.w	(0xd2,pc,a3.w),d7
+ 3E067328: 0000 0001               	ori.b	#0x1,d0
+ 3E06732C: 3FEC 8300 0000          	move.w	-0x7d00(a4),(0,pc,d0.w)
+ 3E067332: 0040 3EBF               	ori.w	#0x3ebf,d0
+ 3E067336: 35B8 7022 1400          	move.w	0x7022.w,(0,a2,d1.w*4)
+ 3E06733C: 3FFA 3800 3E06          	move.w	0x3e06ab3e(pc),(0x6,pc,d3.l*8)
+Page information:
+Page not found
+
+
+[_W3DGFX_W3DGFX_LockHardware] context->regbase = 0xEF010000
+[_W3DGFX_W3DGFX_LockHardware] context->vmembase = 0xE0000000
+[_W3DGFX_W3DGFX_LockHardware] context->drawmem = 0xE0E35600
+[_W3DGFX_W3DGFX_LockHardware] Success
+Enter: _W3DHW_W3DHW_LockHardware
+[_W3DHW_W3DHW_LockHardware] { regbase 0xEF010000, vmembase 0xE0000000, drawmem 0xE0E35600, driver 0x3E31D2F0, regbackup 0x3E31D424 }
+Enter: InitDrawing
+Enter: SetupHardware
+Enter: _W3DHW_W3DHW_UnLockHardware
+[_W3DGFX_W3DGFX_UnLockHardware] W3D_Picasso96: UnLockHardware
+[_W3DGFX_W3DGFX_LockHardware] context->regbase = 0xEF010000
+[_W3DGFX_W3DGFX_LockHardware] context->vmembase = 0xE0000000
+[_W3DGFX_W3DGFX_LockHardware] context->drawmem = 0xE0E35600
+[_W3DGFX_W3DGFX_LockHardware] Success
+Enter: _W3DHW_W3DHW_LockHardware
+[_W3DHW_W3DHW_LockHardware] { regbase 0xEF010000, vmembase 0xE0000000, drawmem 0xE0E35600, driver 0x3E31D2F0, regbackup 0x3E31D424 }
+Enter: InitDrawing
+Enter: SetupHardware
+Enter: _W3DHW_W3DHW_UnLockHardware
+[_W3DGFX_W3DGFX_UnLockHardware] W3D_Picasso96: UnLockHardware
+[_W3DGFX_W3DGFX_LockHardware] context->regbase = 0xEF010000
+[_W3DGFX_W3DGFX_LockHardware] context->vmembase = 0xE0000000
+[_W3DGFX_W3DGFX_LockHardware] context->drawmem = 0xE0E35600
+[_W3DGFX_W3DGFX_LockHardware] Success
+Enter: _W3DHW_W3DHW_LockHardware
+[_W3DHW_W3DHW_LockHardware] { regbase 0xEF010000, vmembase 0xE0000000, drawmem 0xE0E35600, driver 0x3E31D2F0, regbackup 0x3E31D424 }
+Enter: InitDrawing
+Enter: SetupHardware
+Enter: _W3DHW_W3DHW_UnLockHardware
+[_W3DGFX_W3DGFX_UnLockHardware] W3D_Picasso96: UnLockHardware
+[_W3DGFX_W3DGFX_LockHardware] context->regbase = 0xEF010000
+[_W3DGFX_W3DGFX_LockHardware] context->vmembase = 0xE0000000
+[_W3DGFX_W3DGFX_LockHardware] context->drawmem = 0xE0E35600
+[_W3DGFX_W3DGFX_LockHardware] Success
+Enter: _W3DHW_W3DHW_LockHardware
+[_W3DHW_W3DHW_LockHardware] { regbase 0xEF010000, vmembase 0xE0000000, drawmem 0xE0E35600, driver 0x3E31D2F0, regbackup 0x3E31D424 }
+Enter: InitDrawing
+Enter: SetupHardware
+Enter: _W3DHW_W3DHW_UnLockHardware
+[_W3DGFX_W3DGFX_UnLockHardware] W3D_Picasso96: UnLockHardware
+[_W3DGFX_W3DGFX_LockHardware] context->regbase = 0xEF010000
+[_W3DGFX_W3DGFX_LockHardware] context->vmembase = 0xE0000000
+[_W3DGFX_W3DGFX_LockHardware] context->drawmem = 0xE0E35600
+[_W3DGFX_W3DGFX_LockHardware] Success
+Enter: _W3DHW_W3DHW_LockHardware
+[_W3DHW_W3DHW_LockHardware] { regbase 0xEF010000, vmembase 0xE0000000, drawmem 0xE0E35600, driver 0x3E31D2F0, regbackup 0x3E31D424 }
+Enter: InitDrawing
+Enter: SetupHardware
+Enter: _W3DHW_W3DHW_UnLockHardware
+[_W3DGFX_W3DGFX_UnLockHardware] W3D_Picasso96: UnLockHardware
+[_W3DGFX_W3DGFX_LockHardware] context->regbase = 0xEF010000
+[_W3DGFX_W3DGFX_LockHardware] context->vmembase = 0xE0000000
+[_W3DGFX_W3DGFX_LockHardware] context->drawmem = 0xE0E35600
+[_W3DGFX_W3DGFX_LockHardware] Success
+Enter: _W3DHW_W3DHW_LockHardware
+[_W3DHW_W3DHW_LockHardware] { regbase 0xEF010000, vmembase 0xE0000000, drawmem 0xE0E35600, driver 0x3E31D2F0, regbackup 0x3E31D424 }
+Enter: InitDrawing
+Enter: SetupHardware
+Enter: _W3DHW_W3DHW_UnLockHardware
+[_W3DGFX_W3DGFX_UnLockHardware] W3D_Picasso96: UnLockHardware
+[_W3DGFX_W3DGFX_LockHardware] context->regbase = 0xEF010000
+[_W3DGFX_W3DGFX_LockHardware] context->vmembase = 0xE0000000
+[_W3DGFX_W3DGFX_LockHardware] context->drawmem = 0xE0E35600
+[_W3DGFX_W3DGFX_LockHardware] Success
+Enter: _W3DHW_W3DHW_LockHardware
+[_W3DHW_W3DHW_LockHardware] { regbase 0xEF010000, vmembase 0xE0000000, drawmem 0xE0E35600, driver 0x3E31D2F0, regbackup 0x3E31D424 }
+Enter: InitDrawing
+Enter: SetupHardware
+Enter: _W3DHW_W3DHW_UnLockHardware
+[_W3DGFX_W3DGFX_UnLockHardware] W3D_Picasso96: UnLockHardware
+[_W3DGFX_W3DGFX_LockHardware] context->regbase = 0xEF010000
+[_W3DGFX_W3DGFX_LockHardware] context->vmembase = 0xE0000000
+[_W3DGFX_W3DGFX_LockHardware] context->drawmem = 0xE0E35600
+[_W3DGFX_W3DGFX_LockHardware] Success
+Enter: _W3DHW_W3DHW_LockHardware
+[_W3DHW_W3DHW_LockHardware] { regbase 0xEF010000, vmembase 0xE0000000, drawmem 0xE0E35600, driver 0x3E31D2F0, regbackup 0x3E31D424 }
+Enter: InitDrawing
+Enter: SetupHardware
+Enter: _W3DHW_W3DHW_UnLockHardware
+[_W3DGFX_W3DGFX_UnLockHardware] W3D_Picasso96: UnLockHardware
+[_W3DGFX_W3DGFX_LockHardware] context->regbase = 0xEF010000
+[_W3DGFX_W3DGFX_LockHardware] context->vmembase = 0xE0000000
+[_W3DGFX_W3DGFX_LockHardware] context->drawmem = 0xE0E35600
+[_W3DGFX_W3DGFX_LockHardware] Success
+Enter: _W3DHW_W3DHW_LockHardware
+[_W3DHW_W3DHW_LockHardware] { regbase 0xEF010000, vmembase 0xE0000000, drawmem 0xE0E35600, driver 0x3E31D2F0, regbackup 0x3E31D424 }
+Enter: InitDrawing
+Enter: SetupHardware
+Enter: _W3DHW_W3DHW_UnLockHardware
+[_W3DGFX_W3DGFX_UnLockHardware] W3D_Picasso96: UnLockHardware
+[_W3DGFX_W3DGFX_LockHardware] context->regbase = 0xEF010000
+[_W3DGFX_W3DGFX_LockHardware] context->vmembase = 0xE0000000
+[_W3DGFX_W3DGFX_LockHardware] context->drawmem = 0xE0E35600
+[_W3DGFX_W3DGFX_LockHardware] Success
+Enter: _W3DHW_W3DHW_LockHardware
+[_W3DHW_W3DHW_LockHardware] { regbase 0xEF010000, vmembase 0xE0000000, drawmem 0xE0E35600, driver 0x3E31D2F0, regbackup 0x3E31D424 }
+Enter: InitDrawing
+Enter: SetupHardware
+Enter: _W3DHW_W3DHW_UnLockHardware
+[_W3DGFX_W3DGFX_UnLockHardware] W3D_Picasso96: UnLockHardware
+[_W3DGFX_W3DGFX_LockHardware] context->regbase = 0xEF010000
+[_W3DGFX_W3DGFX_LockHardware] context->vmembase = 0xE0000000
+[_W3DGFX_W3DGFX_LockHardware] context->drawmem = 0xE0E35600
+[_W3DGFX_W3DGFX_LockHardware] Success
+Enter: _W3DHW_W3DHW_LockHardware
+[_W3DHW_W3DHW_LockHardware] { regbase 0xEF010000, vmembase 0xE0000000, drawmem 0xE0E35600, driver 0x3E31D2F0, regbackup 0x3E31D424 }
+Enter: InitDrawing
+Enter: SetupHardware
+Enter: _W3DHW_W3DHW_UnLockHardware
+[_W3DGFX_W3DGFX_UnLockHardware] W3D_Picasso96: UnLockHardware
+[_W3DGFX_W3DGFX_LockHardware] context->regbase = 0xEF010000
+[_W3DGFX_W3DGFX_LockHardware] context->vmembase = 0xE0000000
+[_W3DGFX_W3DGFX_LockHardware] context->drawmem = 0xE0E35600
+[_W3DGFX_W3DGFX_LockHardware] Success
+Enter: _W3DHW_W3DHW_LockHardware
+[_W3DHW_W3DHW_LockHardware] { regbase 0xEF010000, vmembase 0xE0000000, drawmem 0xE0E35600, driver 0x3E31D2F0, regbackup 0x3E31D424 }
+Enter: InitDrawing
+Enter: SetupHardware
+Enter: _W3DHW_W3DHW_UnLockHardware
+[_W3DGFX_W3DGFX_UnLockHardware] W3D_Picasso96: UnLockHardware
+[_W3DGFX_W3DGFX_LockHardware] context->regbase = 0xEF010000
+[_W3DGFX_W3DGFX_LockHardware] context->vmembase = 0xE0000000
+[_W3DGFX_W3DGFX_LockHardware] context->drawmem = 0xE0E35600
+[_W3DGFX_W3DGFX_LockHardware] Success
+Enter: _W3DHW_W3DHW_LockHardware
+[_W3DHW_W3DHW_LockHardware] { regbase 0xEF010000, vmembase 0xE0000000, drawmem 0xE0E35600, driver 0x3E31D2F0, regbackup 0x3E31D424 }
+Enter: InitDrawing
+Enter: SetupHardware
+Enter: _W3DHW_W3DHW_UnLockHardware
+[_W3DGFX_W3DGFX_UnLockHardware] W3D_Picasso96: UnLockHardware
+[_W3DGFX_W3DGFX_LockHardware] context->regbase = 0xEF010000
+[_W3DGFX_W3DGFX_LockHardware] context->vmembase = 0xE0000000
+[_W3DGFX_W3DGFX_LockHardware] context->drawmem = 0xE0E35600
+[_W3DGFX_W3DGFX_LockHardware] Success
+Enter: _W3DHW_W3DHW_LockHardware
+[_W3DHW_W3DHW_LockHardware] { regbase 0xEF010000, vmembase 0xE0000000, drawmem 0xE0E35600, driver 0x3E31D2F0, regbackup 0x3E31D424 }
+Enter: InitDrawing
+Enter: SetupHardware
+Enter: _W3DHW_W3DHW_UnLockHardware
+[_W3DGFX_W3DGFX_UnLockHardware] W3D_Picasso96: UnLockHardware
+[_W3DGFX_W3DGFX_LockHardware] context->regbase = 0xEF010000
+[_W3DGFX_W3DGFX_LockHardware] context->vmembase = 0xE0000000
+[_W3DGFX_W3DGFX_LockHardware] context->drawmem = 0xE0E35600
+[_W3DGFX_W3DGFX_LockHardware] Success
+Enter: _W3DHW_W3DHW_LockHardware
+[_W3DHW_W3DHW_LockHardware] { regbase 0xEF010000, vmembase 0xE0000000, drawmem 0xE0E35600, driver 0x3E31D2F0, regbackup 0x3E31D424 }
+Enter: InitDrawing
+Enter: SetupHardware
+Enter: _W3DHW_W3DHW_UnLockHardware
+[_W3DGFX_W3DGFX_UnLockHardware] W3D_Picasso96: UnLockHardware
+[_W3DGFX_W3DGFX_FreeVMem] W3D_Picasso96: FreeVMem

@@ -1,0 +1,14 @@
+
+
+enum {
+
+	RES_Z_CMP_N_PASSED           = 0x00000001,
+	RES_Z_CMP_LT_PASSED          = 0x00000002,
+	RES_Z_CMP_LE_PASSED          = 0x00000004,
+	RES_Z_CMP_EQ_PASSED          = 0x00000008,
+	RES_Z_CMP_GE_PASSED          = 0x00000010,
+	RES_Z_CMP_GT_PASSED          = 0x00000020,
+	RES_Z_CMP_NE_PASSED          = 0x00000040,
+	RES_Z_CMP_A_PASSED           = 0x00000080,
+
+};
